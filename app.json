@@ -103,7 +103,7 @@
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of Nigeria '234')",
     "required":true,
     "value": "255"
   },
